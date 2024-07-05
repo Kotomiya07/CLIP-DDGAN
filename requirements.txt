@@ -8,3 +8,12 @@ lmdb
 matplotlib
 scipy
 ninja
+einops
+tqdm
+ftfy
+regex
+transformers
+kornia
+omegaconf
+pytorch-lightning
+git+https://github.com/openai/CLIP.git
